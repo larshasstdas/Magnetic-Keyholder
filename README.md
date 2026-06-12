@@ -1,6 +1,6 @@
 # Modular Hexagonal Magnetic Key Holder
 
-A modular, wall-mounted key holder system built around a hexagonal tile design. Tiles can be connectec via the connector piece and can be freely arranged and rearranged on the wall (wall need to be metallic/magnetic).
+A modular, wall-mounted key holder system built around a hexagonal tile design. You can connect as many tiles as ypu want. They can be connectec via the connector piece and can be freely arranged and rearranged on the wall (wall need to be metallic/magnetic).
 
 ---
 
