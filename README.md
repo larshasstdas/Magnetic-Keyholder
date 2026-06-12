@@ -16,6 +16,8 @@ A modular, wall-mounted key holder system built around a hexagonal tile design. 
 
 Neodymium magnets with 12mm in diameter and 2mm thickness. You need glue to glue them into the cavitys at the bottom on each part. The hexagons holding keys require 2 magnets and the plain hexagons 1.
 
+I used PLA but you should be able to 3D print with a material of your choice.
+
 ---
 
 ## Printing
