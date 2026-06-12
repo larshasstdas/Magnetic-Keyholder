@@ -25,7 +25,7 @@ I used PLA but you should be able to 3D print with a material of your choice.
 
 ## Printing
 
-STL files are ready to slice, no CAD software needed.
+STL files are ready to slice, no CAD software needed. Or go to https://www.printables.com/model/1752212-magnetic-keyholder, i have listed the files there as well.
 
 
 ---
