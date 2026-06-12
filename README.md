@@ -34,9 +34,9 @@ step                          — contains all step files
 stl                           — contains all stl files
 
 Every folder has following files:
-keyholder_hook.stl            — main tile for holding the key
-keyholder_plain.stl           — blank decorative tile
-keyholder_connection.stl      — part for connecting tiles
+keyholder_hook                — main tile for holding the key
+keyholder_plain               — blank decorative tile
+keyholder_connection          — part for connecting tiles
 ```
 
 ---
