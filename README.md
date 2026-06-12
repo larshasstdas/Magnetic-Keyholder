@@ -12,15 +12,15 @@ A modular, wall-mounted key holder system built around a hexagonal tile design. 
 
 ---
 
-## Hardware
+## Materials
 
-Neodymium magnet with 12mm in diameter are glued into the cavitys at the bottom on each part. The hexagons holding keys require 2 magnets and the plain hexagons 1.
+Neodymium magnets with 12mm in diameter and 2mm thickness. You need glue to glue them into the cavitys at the bottom on each part. The hexagons holding keys require 2 magnets and the plain hexagons 1.
 
 ---
 
 ## Printing
 
-STL files are ready to slice — no CAD software needed.
+STL files are ready to slice, no CAD software needed.
 
 
 ---
@@ -28,7 +28,12 @@ STL files are ready to slice — no CAD software needed.
 ## Files
 
 ```
-creofiles                     — all files used for creating the stl-files and assembly model
+Folders:
+creo                          — contains all creo source files used for creating the step and stl files and has an assembly model
+step                          — contains all step files
+stl                           — contains all stl files
+
+Every folder has following files:
 keyholder_hook.stl            — main tile for holding the key
 keyholder_plain.stl           — blank decorative tile
 keyholder_connection.stl      — part for connecting tiles
@@ -46,6 +51,6 @@ keyholder_connection.stl      — part for connecting tiles
 
 ## CAD Source
 
-The project was designed in **Creo Parametric 12**. Source files are in the creofiles folder in this repository.
+The project was designed in **Creo Parametric 12**. Source files are in the creo folder in this repository.
 
 ---
